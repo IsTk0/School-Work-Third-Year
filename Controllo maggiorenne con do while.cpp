@@ -31,7 +31,7 @@ int main(){
         cout << "Vuoi continuare l'esecuzione del programma? [Y/n]" << endl;
         cin >> continuo_esecuzione;
         if(continuo_esecuzione == "N" or continuo_esecuzione == "n" or continuo_esecuzione == "no" or continuo_esecuzione == "No" or continuo_esecuzione == "NO"){
-            esecuzione = 1;
+            break;
         }
-    } while(esecuzione == 0);
+    } while(true);
 }
