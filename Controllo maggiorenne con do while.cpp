@@ -5,7 +5,6 @@
 using namespace std;
 
 int main(){
-    int esecuzione = 0;
     cout << "Questo programma controlla se sei magiorenne!" << endl;
     do{
         int eta = 0;
