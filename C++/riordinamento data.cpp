@@ -1,7 +1,7 @@
 /*********************************************
 
 	  Codice scritto da Antonio Carbone
-			  3�Fi - 2022-2023
+			  3°Fi - 2022-2023
 		   compito d'informatica
 
 	Descrizione del progetto:
@@ -19,7 +19,7 @@ int main() {
 	int giorno, mese, anno;
 	string luogo = "";
 
-	cout << "Inserisci la data odierna nel formato gg/mm/aaaa : " << endl;
+	cout << "Inserisci la data nel formato gg/mm/aaaa : " << endl;
 	cout << "Giorno: ";
 	cin >> giorno;
 	cout << "Mese: ";
@@ -67,7 +67,7 @@ int main() {
 			cout << luogo << " , " << giorno << " giorno del mese di dicembre, " << anno;
 			break;
 		default:
-			cout << "errore";
+			cout << "Il valore da te inserito non è valido, riprova";
 	}
 
 }
