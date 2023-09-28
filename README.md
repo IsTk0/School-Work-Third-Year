@@ -1,4 +1,4 @@
-# 🎓 ~ 🇮🇹 Tutti i miei sviluppati durante il 3 anno d'informatica alle superiori!
+# 🎓 ~ 🇮🇹 Tutti i miei esercizi sviluppati durante il 3 anno d'informatica alle superiori!
 In questa repository puoi trovare svariate esercitazioni svolte da me durante il corso del terzo anno d'infromatica. Se hai bisogno di una mano con i compiti per casa prendi in considerazione di spulciare il mio codice o addiritura di scrivermi per un aiuto. Mi raccomando non fatevi scoprire dai professori!
 
 # 🏫 ~ 🇬🇧 All of mine developed during the 3rd year of computer science in high school!
